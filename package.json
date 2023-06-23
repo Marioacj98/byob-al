@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.15",
+    "@heroicons/react": "^2.0.18",
     "next": "13.4.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.63.6",
+    "swiper": "^9.4.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
